@@ -1,0 +1,29 @@
+Encapsulation: 
+	Separate interface and implementation and shield implementation from object user
+
+Abstraction:
+	technique that promotes modular and maintainable code by hiding implementation details and 	exposing a simplified interface
+
+Inheritance: 
+	Describe new objects in terms of existing objects
+
+Polymorphism: 
+	the ability to treat objects of different types the same way
+
+Function overloading and overriding:
+	Function overloading is the ability to define multiple functions with the same name but 	different parameter lists
+
+	Function overriding occurs when a derived class provides its own implementation of a 	function that is already defined in its base class. It allows a subclass to modify or extend 	the behavior of the inherited function.
+
+Operator overloading:
+	 feature that allows you to redefine the behavior of operators when they are used with user-defined types or classes
+
+Template programming:
+	to write code that can work with all kind of objects
+
+Classes and objects:
+	Classes are the user-defined data types and Objects are instances of classes
+
+STL:
+	A collection of template classes and functions for general use
+
